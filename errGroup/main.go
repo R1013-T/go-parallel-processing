@@ -1,0 +1,5 @@
+package errGroup
+
+func ErrGroup() {
+
+}
